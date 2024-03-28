@@ -1,0 +1,1 @@
+savedcmd_/home/yuan/Desktop/OS/hw_1/project/seconds/seconds.mod := printf '%s\n'   seconds.o | awk '!x[$$0]++ { print("/home/yuan/Desktop/OS/hw_1/project/seconds/"$$0) }' > /home/yuan/Desktop/OS/hw_1/project/seconds/seconds.mod
