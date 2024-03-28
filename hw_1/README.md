@@ -7,11 +7,11 @@ strace ./FileCopy
 ![alt text](image-2.png)
 
 step 2:
-enter input & copy
+#### enter input & copy
 ![alt text](image-6.png)
 
 step 3:
-done
+#### done
 ![alt text](image-5.png)
 
 ## 3.19
@@ -23,7 +23,7 @@ step 1:
 ![alt text](image-8.png)
 
 step 2:
-done
+#### done
 ![alt text](image-7.png)
 
 ### Shared Memory
@@ -35,7 +35,7 @@ step 1:
 ![alt text](image-9.png)
 
 step 2:
-done
+#### done
 ![alt text](image-10.png)
 
 ## 3.21
@@ -47,7 +47,7 @@ step 1:
 ![alt text](image-12.png)
 
 step 2:
-done
+#### done
 ![alt text](image-13.png)
 
 ## 3.27
@@ -59,7 +59,7 @@ step 1:
 ![alt text](image-14.png)
 
 step 2:
-done & check copy.txt
+#### done & check copy.txt
 
 ## project
 #### entire code all made by Hung-Yuan, Hsiao 110590063
